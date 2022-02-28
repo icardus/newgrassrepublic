@@ -11460,3 +11460,8 @@ header.masthead h1, header.masthead .h1 {
 .slbCaption {
   display: none;
 }
+
+.social {
+  display: flex;
+  
+}
